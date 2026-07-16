@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: #F4F0E8;
+    --paper: #FCFBF8;
+    --foreground: #13252D;
+    --primary: #183C36;
+    --primary-foreground: #FCFBF8;
+    --accent: #B66A3C;
+    --accent-foreground: #FCFBF8;
+    --border: #D9D0C2;
+    --muted: #66716F;
+    
+    /* Status colors */
+    --status-critical: #9E3F3F;
+    --status-success: #2A5A43;
+    --status-warning: #B38642;
+    --status-info: #3C6073;
+
+    --radius: 0.25rem;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-[var(--background)] text-[var(--foreground)] antialiased;
+    direction: rtl;
+  }
+}
+
+@layer utilities {
+  .case-spine {
+    background-image: repeating-linear-gradient(
+      transparent,
+      transparent 10px,
+      rgba(217, 208, 194, 0.4) 10px,
+      rgba(217, 208, 194, 0.4) 11px
+    );
+  }
+  
+  .spine-divider {
+    border-right: 2px solid var(--border);
+    position: relative;
+  }
+  .spine-divider::after {
+    content: '';
+    position: absolute;
+    right: -6px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background-color: var(--accent);
+    opacity: 0.3;
+  }
+}

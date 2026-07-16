@@ -3,6 +3,8 @@
 <div align="center">
   <h3>مساحة العمل الذكية للمحامي المصري</h3>
   <p>نظّم القضايا، تابع الجلسات، واعرف الخطوة التالية من مكان واحد.</p>
+  <br />
+  <strong><a href="https://masar-murex.vercel.app/">🌍 Live Demo</a></strong>
 </div>
 
 ---

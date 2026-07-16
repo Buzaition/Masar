@@ -30,29 +30,6 @@
 - **Icons**: Lucide React
 - **Charts**: Recharts
 
-## 🛠️ Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone <repository-url>
-   cd Lawyer
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server:**
-   ```bash
-   npm run dev
-   ```
-
-4. **Build for production:**
-   ```bash
-   npm run build
-   ```
-
 ## 🎨 Design Philosophy
 
 Masar prioritizes **Visual Excellence**. The application moves away from generic, cluttered software interfaces and instead embraces curated, harmonious color palettes, modern typography, subtle gradients, and dynamic micro-animations to create an interface that feels responsive, alive, and extremely premium.

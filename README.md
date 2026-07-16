@@ -1,12 +1,11 @@
 # مَسار (Masar) - Smart Legal Workspace
 
 <div align="center">
+  <h1> مَسار (Masar) - Smart Legal Workspace</h1>
   <h3>مساحة العمل الذكية للمحامي المصري</h3>
   <p>نظّم القضايا، تابع الجلسات، واعرف الخطوة التالية من مكان واحد.</p>
   <br />
   <strong><a href="https://masar-murex.vercel.app/">🌍 Live Demo</a></strong>
-  <br /><br />
-  <img src="public/hero-artwork.png" alt="Masar Workspace Preview" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
 </div>
 
 ---

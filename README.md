@@ -1,5 +1,3 @@
-# مَسار (Masar) - Smart Legal Workspace
-
 <div align="center">
   <h1> مَسار (Masar) - Smart Legal Workspace</h1>
   <h3>مساحة العمل الذكية للمحامي المصري</h3>

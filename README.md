@@ -5,6 +5,8 @@
   <p>نظّم القضايا، تابع الجلسات، واعرف الخطوة التالية من مكان واحد.</p>
   <br />
   <strong><a href="https://masar-murex.vercel.app/">🌍 Live Demo</a></strong>
+  <br /><br />
+  <img src="public/hero-artwork.jpg" alt="Masar Workspace Preview" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
 </div>
 
 ---
